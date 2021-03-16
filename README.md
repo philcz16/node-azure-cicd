@@ -1,1 +1,3 @@
 # node-azure-cicd
+This is a simple Node Web App, We are going to setup a build and release pileline using Azure Devops
+Full documentation will follow shortly......
