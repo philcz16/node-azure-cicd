@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "This is a simple Node Web App, We are going to setup a build and release pileline using Azure Devops\r Full documentation will follow shortly......",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philcz16/node-azure-cicd.git"
+  },
+  "author": "philcz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philcz16/node-azure-cicd/issues"
+  },
+  "homepage": "https://github.com/philcz16/node-azure-cicd#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
